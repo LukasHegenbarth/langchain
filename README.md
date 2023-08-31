@@ -10,3 +10,12 @@ To use add .env file with your OpenAI API key
 
 This can be used as a basis for custom chaining of LLM Models.
 
+Application Possibilities:
+
+- Automated customer service bots for FAQs, ticketing, and more
+- Customizable pipelines for business automation tasks
+- Integration with OpenAI's powerful language models
+- Extensible and modular architecture
+- Support for custom chaining of different language models
+- Real-time analytics and logging
+
