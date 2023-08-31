@@ -17,3 +17,5 @@ Application Possibilities:
 - Integration with OpenAI's powerful language models
 - Real-time analytics and logging
 
+See https://python.langchain.com/docs/get_started/introduction.html for more info
+
